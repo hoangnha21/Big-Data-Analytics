@@ -8,7 +8,7 @@ Objectives:
 
 Dataset: includes 2000 pairs of Year/month and average temperature of that month. It is raw data. 
 
-Tasks:
+Tasks
 
 Build several functions such as data cleaning, data split, mapper, sort, partition, reducer and main function.
 
