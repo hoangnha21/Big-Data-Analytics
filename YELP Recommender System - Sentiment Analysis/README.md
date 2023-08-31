@@ -50,6 +50,11 @@ Help businesses predict Yelp star ratings based on past reviews given by the use
 
 <img width="818" alt="Screenshot 2023-08-31 at 13 25 31" src="https://github.com/hoangnha21/Big-Data-Analytics/assets/102693851/023d2c54-4061-4517-b182-5ab952c99cf5">
 
+## Contributors:
+
+Nithin Gowda 
+Prajwal Chidri
+Purva Ladge
 
 
 
