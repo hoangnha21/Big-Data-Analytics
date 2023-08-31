@@ -53,7 +53,9 @@ Help businesses predict Yelp star ratings based on past reviews given by the use
 ## Contributors:
 
 Nithin Gowda 
+
 Prajwal Chidri
+
 Purva Ladge
 
 
